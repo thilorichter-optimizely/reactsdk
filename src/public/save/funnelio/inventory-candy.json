@@ -1,0 +1,312 @@
+[
+  {
+    "family_id": "MAGIKARP",
+    "candy": 339,
+    "id": 129,
+    "cost": 400
+  },
+  {
+    "family_id": "DRATINI",
+    "candy": 100,
+    "id": 147,
+    "cost": 25
+  },
+  {
+    "family_id": "LAPRAS",
+    "candy": 22,
+    "id": 131
+  },
+  {
+    "family_id": "EEVEE",
+    "candy": 1,
+    "id": 133,
+    "cost": 25
+  },
+  {
+    "family_id": "BULBASAUR",
+    "candy": 3,
+    "id": 1,
+    "cost": 25
+  },
+  {
+    "family_id": "CHARMANDER",
+    "candy": 7,
+    "id": 4,
+    "cost": 25
+  },
+  {
+    "family_id": "SQUIRTLE",
+    "candy": 43,
+    "id": 7,
+    "cost": 25
+  },
+  {
+    "family_id": "CATERPIE",
+    "candy": 23,
+    "id": 10,
+    "cost": 12
+  },
+  {
+    "family_id": "WEEDLE",
+    "candy": 44,
+    "id": 13,
+    "cost": 12
+  },
+  {
+    "family_id": "PIDGEY",
+    "candy": 67,
+    "id": 16,
+    "cost": 12
+  },
+  {
+    "family_id": "RATTATA",
+    "candy": 42,
+    "id": 19,
+    "cost": 25
+  },
+  {
+    "family_id": "SPEAROW",
+    "candy": 48,
+    "id": 21,
+    "cost": 50
+  },
+  {
+    "family_id": "EKANS",
+    "candy": 18,
+    "id": 23,
+    "cost": 50
+  },
+  {
+    "family_id": "PIKACHU",
+    "candy": 11,
+    "id": 25,
+    "cost": 50
+  },
+  {
+    "family_id": "SANDSHREW",
+    "candy": 67,
+    "id": 27,
+    "cost": 50
+  },
+  {
+    "family_id": "NIDORAN_FEMALE",
+    "candy": 19,
+    "id": 29,
+    "cost": 25
+  },
+  {
+    "family_id": "NIDORAN_MALE",
+    "candy": 9,
+    "id": 32,
+    "cost": 25
+  },
+  {
+    "family_id": "VULPIX",
+    "candy": 21,
+    "id": 37,
+    "cost": 50
+  },
+  {
+    "family_id": "JIGGLYPUFF",
+    "candy": 3,
+    "id": 39,
+    "cost": 50
+  },
+  {
+    "family_id": "ZUBAT",
+    "candy": 9,
+    "id": 41,
+    "cost": 50
+  },
+  {
+    "family_id": "ODDISH",
+    "candy": 26,
+    "id": 43,
+    "cost": 25
+  },
+  {
+    "family_id": "PARAS",
+    "candy": 38,
+    "id": 46,
+    "cost": 50
+  },
+  {
+    "family_id": "VENONAT",
+    "candy": 52,
+    "id": 48,
+    "cost": 50
+  },
+  {
+    "family_id": "MEOWTH",
+    "candy": 48,
+    "id": 52,
+    "cost": 50
+  },
+  {
+    "family_id": "PSYDUCK",
+    "candy": 25,
+    "id": 54,
+    "cost": 50
+  },
+  {
+    "family_id": "POLIWAG",
+    "candy": 75,
+    "id": 60,
+    "cost": 25
+  },
+  {
+    "family_id": "ABRA",
+    "candy": 13,
+    "id": 63,
+    "cost": 25
+  },
+  {
+    "family_id": "MACHOP",
+    "candy": 14,
+    "id": 66,
+    "cost": 25
+  },
+  {
+    "family_id": "BELLSPROUT",
+    "candy": 19,
+    "id": 69,
+    "cost": 25
+  },
+  {
+    "family_id": "TENTACOOL",
+    "candy": 50,
+    "id": 72,
+    "cost": 50
+  },
+  {
+    "family_id": "GEODUDE",
+    "candy": 16,
+    "id": 74,
+    "cost": 25
+  },
+  {
+    "family_id": "PONYTA",
+    "candy": 19,
+    "id": 77,
+    "cost": 50
+  },
+  {
+    "family_id": "SLOWPOKE",
+    "candy": 58,
+    "id": 79,
+    "cost": 50
+  },
+  {
+    "family_id": "MAGNEMITE",
+    "candy": 34,
+    "id": 81,
+    "cost": 50
+  },
+  {
+    "family_id": "SEEL",
+    "candy": 31,
+    "id": 86,
+    "cost": 50
+  },
+  {
+    "family_id": "GRIMER",
+    "candy": 3,
+    "id": 88,
+    "cost": 50
+  },
+  {
+    "family_id": "SHELLDER",
+    "candy": 51,
+    "id": 90,
+    "cost": 50
+  },
+  {
+    "family_id": "GASTLY",
+    "candy": 3,
+    "id": 92,
+    "cost": 25
+  },
+  {
+    "family_id": "ONIX",
+    "candy": 0,
+    "id": 95
+  },
+  {
+    "family_id": "DROWZEE",
+    "candy": 31,
+    "id": 96,
+    "cost": 50
+  },
+  {
+    "family_id": "KRABBY",
+    "candy": 42,
+    "id": 98,
+    "cost": 50
+  },
+  {
+    "family_id": "VOLTORB",
+    "candy": 42,
+    "id": 100,
+    "cost": 50
+  },
+  {
+    "family_id": "CUBONE",
+    "candy": 13,
+    "id": 104,
+    "cost": 50
+  },
+  {
+    "family_id": "HITMONCHAN",
+    "candy": 22,
+    "id": 107
+  },
+  {
+    "family_id": "KOFFING",
+    "candy": 7,
+    "id": 109,
+    "cost": 50
+  },
+  {
+    "family_id": "HORSEA",
+    "candy": 39,
+    "id": 116,
+    "cost": 50
+  },
+  {
+    "family_id": "GOLDEEN",
+    "candy": 37,
+    "id": 118,
+    "cost": 50
+  },
+  {
+    "family_id": "STARYU",
+    "candy": 60,
+    "id": 120,
+    "cost": 50
+  },
+  {
+    "family_id": "MR_MIME",
+    "candy": 16,
+    "id": 122
+  },
+  {
+    "family_id": "SCYTHER",
+    "candy": 7,
+    "id": 123
+  },
+  {
+    "family_id": "JYNX",
+    "candy": 86,
+    "id": 124
+  },
+  {
+    "family_id": "ELECTABUZZ",
+    "candy": 3,
+    "id": 125
+  },
+  {
+    "family_id": "MAGMAR",
+    "candy": 10,
+    "id": 126
+  }
+]

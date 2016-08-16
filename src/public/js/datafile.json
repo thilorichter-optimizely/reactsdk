@@ -1,0 +1,53 @@
+{
+"experiments": [
+{
+"status": "Running",
+"percentageIncluded": 10000,
+"key": "react_test",
+"trafficAllocation": [
+{
+"entityId": "6999920647",
+"endOfRange": 5000
+},
+{
+"entityId": "6999920648",
+"endOfRange": 10000
+}
+],
+"audienceIds": [],
+"variations": [
+{
+"id": "6999920647",
+"key": "var1"
+},
+{
+"id": "6999920648",
+"key": "var2"
+}
+],
+"forcedVariations": {},
+"id": "6991951164"
+}
+],
+"version": "1",
+"audiences": [],
+"dimensions": [],
+"groups": [],
+"projectId": "7004240678",
+"accountId": "3409250946",
+"events": [
+{
+"experimentIds": [
+"6991951164"
+],
+"id": "7000130814",
+"key": "goal1"
+},
+{
+"experimentIds": [],
+"id": "6997010771",
+"key": "Total Revenue"
+}
+],
+"revision": "4"
+}
